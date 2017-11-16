@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
+/*
 int main()
 {
 	string x = "hello";
@@ -16,4 +18,4 @@ int main()
     cout << z << endl;
     cout<< "The letter 'l' is at index " << y.find('l') << endl;
     return 0;
-}
+}*/

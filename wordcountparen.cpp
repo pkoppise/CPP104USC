@@ -4,6 +4,7 @@
 #include <sstream>
 using namespace std;
 
+/*
 int main() {
    string line;
    // read each line
@@ -25,7 +26,7 @@ int main() {
       // print word count
       cout << count << endl;
    }
-}
+}*/
 
 
 

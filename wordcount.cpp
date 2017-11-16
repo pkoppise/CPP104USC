@@ -4,6 +4,7 @@
 #include <sstream>
 using namespace std;
 
+/*
 int main() {
    string word;
    int cnt = 0;
@@ -12,6 +13,6 @@ int main() {
    }
    // print word count
    cout <<  cnt    << endl;
-}
+}*/
 
 

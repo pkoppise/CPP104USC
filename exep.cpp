@@ -51,6 +51,7 @@ private:
 	bool tenure;
 };
 
+/*
 int main()
 {
 	Person *p  = new Person("Pain",123);
@@ -61,4 +62,4 @@ int main()
 	q = p;	q->print_info();
 	q = s; 	q->print_info();
 	q = f; 	q->print_info();
-}
+}*/
