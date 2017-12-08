@@ -23,10 +23,11 @@ Item* buildItem()
     return x;
 }
  
+/* 
 int main()
 {
     Item* i = buildItem(); // access i’s data.
     cout << i->x << endl;
     cout << i->y << endl;
     delete i;
-}
+}*/
