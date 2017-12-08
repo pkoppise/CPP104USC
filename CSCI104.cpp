@@ -18,11 +18,11 @@ private:
 };
 
 
-/*int main()
+int main()
 {
    ObjA a;
    cout << "A's output: " << a.get() << endl;
    ObjA a1(20);
    cout << "A's output: " << a1.get() << endl;
    return 0;
-}*/
+}
