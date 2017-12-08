@@ -1,0 +1,20 @@
+gdb <>.exe
+start(main program)
+list (code)
+print
+step,
+next
+x 
+watch
+rwatch
+cont
+break
+info watchpoints
+info break
+del 
+quit
+run
+cont
+bt
+frame
+set var
